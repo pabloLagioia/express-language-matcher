@@ -1,0 +1,8 @@
+{
+  "name": "express-language-matcher",
+  "version": "0.0.1",
+  "description": "Middleware to match browsers language based on supported languages",
+  "main": "index.js",
+  "author": "pablo.lagioia",
+  "license": "MIT"
+}
